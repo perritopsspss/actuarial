@@ -2,8 +2,6 @@
 # ACTUARIAL_TEMAS_ EXAMEN FINAL_RECUPERACION ------------------------------
 
 
-# perrito habla huevadas
-
 # TEMA: ANÁLISIS DE TIEMPOS DE VIDA ---------------------------------------
 Tabla1 = read.table("TMSPP2017.txt",T)
 library(lifecontingencies)
